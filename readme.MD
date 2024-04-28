@@ -4,4 +4,4 @@ Este projeto tem como objetivo desenvolver uma interface gráfica que permite ao
     - Atualizar
     - Deletar
 
-Realizando o CRUD ao inserir informações em um banco de dados em SQLITE.
+Realizando o CRUD ao inserir informações em um banco de dados em SQLITE. 
